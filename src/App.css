@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  justify-content: space-between;
+}
+
+#tree-graph {
+  flex: 2;
+  border: 1px solid #ddd;
+}
+
+.node-details {
+  flex: 1;
+  padding: 10px;
+  border-left: 1px solid #ddd;
+}
